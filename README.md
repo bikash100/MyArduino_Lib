@@ -1,2 +1,3 @@
 # MyArduino_Lib
-Contains arduino libraries for third-party hardwares
+
+Contains Arduino libraries for third-party hardwares
